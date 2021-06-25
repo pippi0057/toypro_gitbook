@@ -1,2 +1,2 @@
-# はじめに
+# Initial page
 
