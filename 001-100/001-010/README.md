@@ -1,6 +1,6 @@
 # 001-010
 
-{% page-ref page="no.001.md" %}
+{% page-ref page="001.md" %}
 
 
 
