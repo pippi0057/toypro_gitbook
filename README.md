@@ -1,5 +1,5 @@
 ---
-description: 'このwebサイトは[トイプロ](https://www.toy-pro.net)の解説記事を集めたページです。'
+description: このwebサイトはトイプロの解説記事を集めたページです。
 ---
 
 # はじめに
